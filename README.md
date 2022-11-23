@@ -1,2 +1,1 @@
-# prophesygg
-Prophesy.gg
+# Prophesy.gg
